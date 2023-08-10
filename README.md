@@ -8,7 +8,6 @@ A simple Python program that converts text to Morse code and vice versa.
 - [Features](#features)
 - [Usage](#usage)
 - [Getting Started](#getting-started)
-- [License](#license)
 
 ## Description
 
@@ -29,9 +28,3 @@ The Morse Code Converter is a text-based Python program that allows users to con
    - Enter `2` to convert Morse code to text.
 3. Follow the prompts to input the text or Morse code.
 4. View the converted result.
-
-## Getting Started
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/Sou-Daroh/morse-code-converter.git
