@@ -7,7 +7,6 @@ A simple Python program that converts text to Morse code and vice versa.
 - [Description](#description)
 - [Features](#features)
 - [Usage](#usage)
-- [Getting Started](#getting-started)
 
 ## Description
 
